@@ -1,0 +1,32 @@
+.section{
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+.form{
+
+    padding-left: 20px;
+    padding-right: 20px
+}
+
+.section{
+    background-color:bisque;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 780px ;
+}
+.section__name{
+    font-size: 50px;
+    color: black;;
+    font-family:cursive;
+}
+.section__role{
+    color: black;;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.section__button{
+    color: black;
+    background-color:rgb(227, 140, 90);
+}
