@@ -44,7 +44,5 @@ If you'd like to contribute to this project or report issues, please follow thes
 5. Push to the branch: `git push origin feature/new-feature`
 6. Submit a pull request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Thank you
 
